@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @matthewwjones
-- 👀 I’m interested in Java, Python, Linux, Docker, Build & Deploy
-- https://mattjoneslondon.com
+- 👀 I’m interested in Java, Python, Linux, Docker, Build and Deploy - the whole pipeline to production.
+- 🌐 https://mattjoneslondon.com
